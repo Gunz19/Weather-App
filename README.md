@@ -1,4 +1,4 @@
-<h1>Weather</h1>
+<h1>Weather Condition</h1>
 <hr>
-<h3>This website made for portfolio</h3>
+<h5>This website made for my portfolio</h5>
 <h3>Thank You for Viewing</h3>
